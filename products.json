@@ -1,0 +1,17 @@
+[
+  {
+    "id": "product1",
+    "name": "Product 1",
+    "description": "Description for product 1",
+    "bundles": [
+      {
+        "name": "Bundle 2",
+        "price": 100
+      },
+      {
+        "name": "Bundle 3",
+        "price": 200
+      }
+    ]
+  }
+]
